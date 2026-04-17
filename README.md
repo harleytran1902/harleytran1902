@@ -20,6 +20,7 @@ Data Analyst with strong foundations in applied data science, combining Python, 
 
 #### 4. Machine Learning for Customer Churn Prediction & Profit Optimization
 - Python • DataRobot • Machine Learning • Predictive Modeling  • R
+- [View Project](https://github.com/harleytran1902/Machine-Learning-for-Customer-Churn-Prediction-Profit-Optimization/blob/835e36ac56ca6c3d9a27ee5d89ca0248fbd10e7f/README.md)
 
 ## Skills
 - Programming & Statistical tools: Python, SQL, R, STATA, SPSS, Excel (Advanced)
