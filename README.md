@@ -78,7 +78,7 @@ Data Analyst with strong foundations in applied data science, combining Python, 
 - Coordinated charity event raising awareness of human trafficking  
 - Raised 5,334 NOK with 35 participants  
 
-#### Public Relations Committee | AIESEC in Denmark  (02/2025 – 05/2025)
+#### Organizing Committee Public Relation | AIESEC in Denmark  (02/2025 – 05/2025)
 - Organized a 1-week training camp for 30+ members  
 - Managed communication and event coordination  
 
