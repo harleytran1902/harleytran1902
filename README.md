@@ -82,11 +82,11 @@ Data Analyst with strong foundations in applied data science, combining Python, 
 - Organized a 1-week training camp for 30+ members  
 - Managed communication and event coordination  
 
-#### Head of Communication | HP.FTU Student Association  (09/2020 – 09/2021)
+#### Head of Communication Department | HP.FTU Student Association  (09/2020 – 09/2021)
 - Led a team of 20 members to execute fundraising campaigns  
 - Supported projects building schools in remote areas  
 
-#### Deputy Head of Communication | FBA Elite Student Association  (09/2020 – 09/2021)
+#### Deputy Head of Communication Department | FBA Elite Student Association  (09/2020 – 09/2021)
 - Managed a team of 17 members for career orientation programs  
 - Attracted 300+ participants per event
   
