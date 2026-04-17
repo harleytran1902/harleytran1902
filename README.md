@@ -11,16 +11,16 @@ Data Analyst with strong foundations in applied data science, combining Python, 
 
 #### 2. Retail Sales & Promotion Effectiveness Modeling   
 - Python • R • Regression Modelling • Panel Data Analysis
-- Link: https://github.com/yourusername/project-3
+- Link: 
 
 #### 3. Published Paper: Enterprise risk management and its impact on firm value 
 - STATA • SPSS • Excel • Regression Analysis
 - Link published paper: https://doi.org/10.59276/JELB.2025.04.2832
-- Link: https://github.com/yourusername/project-3
+- Link: 
 
 #### 4. Customer Churn Classification and Profitability Prediction Using Machine Learning
 - Python • DataRobot • Machine Learning • Predictive Modeling  • R
-- Link: https://github.com/yourusername/project-1
+- Link: 
 
 ## Skills
 - Programming & Statistical tools: Python, SQL, R, STATA, SPSS, Excel (Advanced)
