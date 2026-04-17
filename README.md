@@ -1,7 +1,7 @@
 # Hi, I'm Harley 👋
 
 ## About me
-Data Analyst with strong foundations in applied data science, combining Python, SQL, and statistical modelling to solve real-world business problems. Experienced in working with complex, unstructured datasets to develop analytical frameworks, build data pipelines, and generate actionable insights across cross-functional teams. Particularly interested in applying machine learning and advanced analytics to solve high-impact business challenges.
+Data Analyst with strong foundations in applied data science, combining Python, SQL, and statistical modelling to solve real-world business problems. Experienced in working with complex, unstructured datasets to develop analytical frameworks, build data pipelines, and generate actionable insights across cross-functional teams. Particularly interested in applying machine learning, AI, and advanced analytics to solve high-impact business challenges.
 
 ## Project for sharing
 
