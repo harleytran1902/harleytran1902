@@ -18,7 +18,7 @@ Data Analyst with strong foundations in applied data science, combining Python, 
 - Published paper: https://doi.org/10.59276/JELB.2025.04.2832
 - [View Project](https://github.com/harleytran1902/Enterprise-risk-management-and-its-impact-on-firm-value)
 
-#### 4. Customer Churn Classification and Profitability Prediction Using Machine Learning
+#### 4. Machine Learning for Customer Churn Prediction & Profit Optimization
 - Python • DataRobot • Machine Learning • Predictive Modeling  • R
 
 ## Skills
