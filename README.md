@@ -64,7 +64,7 @@ Data Analyst with strong foundations in applied data science, combining Python, 
 ## Certificates
 - Datacamp certificates for programming & data analysis courses (Python, R, Power BI, Machine Learning): https://byvn.net/PMH4
 
-## 🎯 Extracurricular Activities
+## Extracurricular Activities
 
 #### Class Representative | BI Norwegian Business School  (08/2024 – Present)
 - Collected and analysed student feedback using Google survey data  
