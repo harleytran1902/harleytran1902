@@ -11,7 +11,7 @@ Data Analyst with strong foundations in applied data science, combining Python, 
 
 #### 2. Retail Sales & Promotion Effectiveness Modeling   
 - Python • R • Regression Modelling • Panel Data Analysis
-- Link: 
+- [View Project](https://github.com/harleytran1902/Retail-Sales-Promotion-Effectiveness-Modelling-)
 
 #### 3. Published Paper: Enterprise risk management and its impact on firm value 
 - STATA • SPSS • Excel • Regression Analysis
