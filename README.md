@@ -15,7 +15,7 @@ Data Analyst with strong foundations in applied data science, combining Python, 
 
 #### 3. Published Paper: Enterprise risk management and its impact on firm value 
 - STATA • SPSS • Excel • Regression Analysis
-- Link published paper: https://doi.org/10.59276/JELB.2025.04.2832
+- Published paper: https://doi.org/10.59276/JELB.2025.04.2832
 - Link: 
 
 #### 4. Customer Churn Classification and Profitability Prediction Using Machine Learning
