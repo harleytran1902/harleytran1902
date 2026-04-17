@@ -27,6 +27,7 @@ Data Analyst with strong foundations in applied data science, combining Python, 
 - Data Analysis: Preprocessing, cleaning, modeling, and visualising large datasets; developing KPIs; exploratory data analysis.
 - Machine Learning & AI: DataRobot, predictive and classification modeling, ML model training, validating & testing
 - Other tools: Google Sheets, Google Docs, Microsoft PowerPoint, Word, Canva, Vensim, Anylogic
+- Soft Skills: Problem-solving, time management, effective communication, and proactive learning
 
 ## Education
 - MSc in Business Analytics | BI Norwegian Business School, Norway (08/2024 - 07/2026)
