@@ -5,22 +5,22 @@ Data Analyst with strong foundations in applied data science, combining Python, 
 
 ## Project for sharing
 
-#### 1. Customer Churn Classification and Profitability Prediction Using Machine Learning
-- Python • DataRobot • Machine Learning • Predictive Modeling  • R
-- Link: https://github.com/yourusername/project-1
-
-#### 2. UK - EU Trade Network Analysis (2019 - 2022)  
+#### 1. UK - EU Trade Network Analysis (2019 - 2022)  
 - Python • Excel • Gephi • Tableau • Network Analysis
-- Link: https://github.com/yourusername/project-2
+- [View Project](https://github.com/harleytran1902/UK-EU-Trade-Network-Analysis-2019-2022-)
 
-#### 3. Retail Sales & Promotion Effectiveness Modeling   
+#### 2. Retail Sales & Promotion Effectiveness Modeling   
 - Python • R • Regression Modelling • Panel Data Analysis
 - Link: https://github.com/yourusername/project-3
 
-#### 4. Published Paper: Enterprise risk management and its impact on firm value 
+#### 3. Published Paper: Enterprise risk management and its impact on firm value 
 - STATA • SPSS • Excel • Regression Analysis
 - Link published paper: https://doi.org/10.59276/JELB.2025.04.2832
 - Link: https://github.com/yourusername/project-3
+
+#### 4. Customer Churn Classification and Profitability Prediction Using Machine Learning
+- Python • DataRobot • Machine Learning • Predictive Modeling  • R
+- Link: https://github.com/yourusername/project-1
 
 ## Skills
 - Programming & Statistical tools: Python, SQL, R, STATA, SPSS, Excel (Advanced)
