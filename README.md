@@ -20,7 +20,7 @@ Data Analyst with strong foundations in applied data science, combining Python, 
 - **Impact**: Identified optimal pricing & promotion strategy → potential + 10 -12% profit margin improvement
 
 #### 3. Machine Learning for Customer Churn Prediction & Profit Optimization
-- [View Project](https://github.com/harleytran1902/Machine-Learning-for-Customer-Churn-Prediction-Profit-Optimization/blob/835e36ac56ca6c3d9a27ee5d89ca0248fbd10e7f/README.md)
+- [View Project](https://github.com/harleytran1902/Machine-Learning-for-Customer-Churn-Prediction-Profit-Optimization/blob/main/README.md)
 - **Problem**: Rule-based fraud detection system failed to detect fraud early, leading to significant financial losses
 - **Approach**: Built Gradient Boosting model with feature engineering (behavioral + geolocation) and handled class imbalance using SMOTE; optimized decision threshold using profit curve
 - **Insight**: Fraud risk is strongly linked to abnormal transaction behavior (distance, frequency, first-time transactions)
