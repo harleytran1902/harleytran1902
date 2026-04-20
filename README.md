@@ -17,7 +17,7 @@ Data Analyst with strong foundations in applied data science, combining Python, 
 - **Problem**: Promotions increased sales volume but unclear impact on profitability across retailers
 - **Approach**: Developed regression and panel data models to isolate effects of price, discounts, and promotions across multiple retail chains
 - **Insight**: Discounts significantly boost sales but reduce profitability beyond a certain threshold; promotion effectiveness varies by retailer
-- **Impact**: Identified optimal pricing & promotion strategy → potential + 10-12% profit margin improvement
+- **Impact**: Identified optimal pricing & promotion strategy → potential + 10 -12% profit margin improvement
 
 #### 3. Machine Learning for Customer Churn Prediction & Profit Optimization
 - [View Project](https://github.com/harleytran1902/Machine-Learning-for-Customer-Churn-Prediction-Profit-Optimization/blob/835e36ac56ca6c3d9a27ee5d89ca0248fbd10e7f/README.md)
